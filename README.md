@@ -1,6 +1,6 @@
 # AWS Cloud Practice Projects
 
-This repository contains beginner-to-intermediate projects built on Amazon Web Services (AWS) using the AWS Basic account. These hands-on exercises showcase my learning and practical experience with cloud services, including S3, EC2, Lambda, and more.
+This repository contains beginner-to-intermediate projects built on Amazon Web Services (AWS) using the AWS Basic account. 
 
 ## Projects
 
@@ -26,7 +26,7 @@ This repository contains beginner-to-intermediate projects built on Amazon Web S
 ---
 
 ##  Why This Repo?
-As an **AWS Certified Cloud Practitioner**, I created these projects to strengthen my skills in deploying, configuring, and managing AWS services. This portfolio demonstrates my commitment to continuous learning and building real-world cloud solutions.
+ I created these projects to strengthen my skills in deploying, configuring, and managing AWS services. This portfolio demonstrates my commitment to continuous learning and building real-world cloud solutions.
 
 ---
 
@@ -42,10 +42,4 @@ As an **AWS Certified Cloud Practitioner**, I created these projects to strength
 - Hosting a WordPress site on EC2  
 - Deploying a Docker container with ECS  
 - Automating deployments with CloudFormation  
-
----
-
- **About Me**
-I’m Nick Peril, an aspiring IT professional passionate about cloud computing and software development. Connect with me on [LinkedIn](https://www.linkedin.com/in/nicanorjrperil/) to see more of my journey!  
-
 
